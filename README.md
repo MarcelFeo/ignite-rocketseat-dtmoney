@@ -9,14 +9,10 @@ O projeto surgiu com a missão de ajudar as pessoas organizarem transações de 
 
 ## 🖼 Screenshot das telas da aplicação
 
-## 🖼 Tela principal da plataforma
-
- <img src="./images/TelaPrincipal.png" alt="Tela Principal">
-
-## 🖼 Cadastro de transações
+## 🖼 Tela da plataforma
 
 <br>
-<img src="./images/Cadastro.png" alt="Tela de cadastro">
+<img src="home.png" alt="Tela de cadastro">
 <br>
 
 ## 🛠 Tecnologias
