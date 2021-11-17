@@ -47,8 +47,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg"
-      alt="javascript"
+      src="https://github.com/styled-icons/styled-icons/workflows/CI/badge.svg"
+      alt="styled-componentes"
       width="120"
       height="120"
     />
