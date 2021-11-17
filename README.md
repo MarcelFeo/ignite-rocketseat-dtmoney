@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/sass-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="Css3"
       width="120"
       height="120"
