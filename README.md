@@ -53,6 +53,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
       height="120"
     />
   </a>
+ 
+ <p>💅</p>
   
 </p>
 
