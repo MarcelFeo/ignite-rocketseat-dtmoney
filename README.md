@@ -7,9 +7,7 @@ Primeiro projeto do IgniteRocketseat
 O projeto surgiu com a missão de ajudar as pessoas organizarem transações de pagamentos e depósitos.
 
 
-## 🖼 Screenshot das telas da aplicação
-
-## 🖼 Tela da plataforma
+## 🖼 Screenshot da tela da aplicação
 
 <br>
 <img src="home.png" alt="Tela de cadastro">
