@@ -47,7 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg"
       alt="javascript"
       width="120"
       height="120"
