@@ -27,26 +27,32 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 <p align="left">
+  <div>
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="HTML5"
       width="120"
       height="120"
     />
+  </div>
  
+  <div>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="Css3"
       width="120"
       height="120"
     />
+  </div>
 
+  <div>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylescomponents/stylescomponents-original.svg"
       alt="javascript"
       width="120"
       height="120"
     />
+  </div>
   
 </p>
 
