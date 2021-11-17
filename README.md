@@ -47,7 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <a>
     <img
-      src="https://githubusercontent.com/devicons/devicon/master/styled-icons/syled-icons.svg"
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"
       alt="styled-componentes"
       width="120"
       height="120"
