@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/teteusAraujo/KdMeuBichinho.git
+git clone https://github.com/MarcelFeo/Primeiro-Projeto-Ignite.git
 
 # Entrar numa IDE de sua preferência 
 
