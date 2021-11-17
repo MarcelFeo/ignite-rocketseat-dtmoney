@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/react-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="HTML5"
       width="120"
       height="120"
