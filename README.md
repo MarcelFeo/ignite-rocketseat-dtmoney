@@ -26,11 +26,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-<p align="flex">
+<p align="flex" display="inline">
   <div>
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="HTML5"
+      alt="react"
       width="120"
       height="120"
     />
@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <div>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="Css3"
+      alt="sass"
       width="120"
       height="120"
     />
