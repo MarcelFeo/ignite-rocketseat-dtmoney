@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-<p align="left">
+<p align="center" display="flex">
   <div>
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -47,7 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <div>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylescomponents/stylescomponents-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg"
       alt="javascript"
       width="120"
       height="120"
