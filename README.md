@@ -47,15 +47,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   <a>
     <img
-      src="https://github.com/styled-icons/styled-icons/workflows/CI/badge.svg"
+      src="https://githubusercontent.com/devicons/devicon/master/styled-icons/syled-icons.svg"
       alt="styled-componentes"
       width="120"
       height="120"
     />
   </a>
- 
- <p>💅</p>
-  
+   
 </p>
 
 <br>
