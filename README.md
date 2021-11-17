@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-<p display="flex">
+<p align="flex">
   <div>
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
