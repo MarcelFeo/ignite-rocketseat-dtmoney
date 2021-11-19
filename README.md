@@ -24,6 +24,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Typescript<br>
 - [x] MirageJS<br>
 - [x] Styled-Components<br>
+- [x] Axios<br>
+- [x] React Modal<br>
 <br>
 
 ## 👷 Como rodar
