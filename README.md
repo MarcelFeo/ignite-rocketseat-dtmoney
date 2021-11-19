@@ -20,36 +20,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-<p display="inline">
-  <a>
-   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="react"
-      width="120"
-      height="120"
-    />
-  </a>
- 
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="120"
-      height="120"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"
-      alt="styled-componentes"
-      width="120"
-      height="120"
-    />
-  </a>
-   
-</p>
-
+- [x] React
+- [x] Typescript
+- [x] MirageJS
+- [x] Styled-Components 
 <br>
 
 ## 👷 Como rodar
