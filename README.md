@@ -20,10 +20,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-- [x] React
-- [x] Typescript
-- [x] MirageJS
-- [x] Styled-Components 
+- [x] React<br>
+- [x] Typescript<br>
+- [x] MirageJS<br>
+- [x] Styled-Components<br>
 <br>
 
 ## 👷 Como rodar
