@@ -20,12 +20,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-- [x] React
+- [x] React<br>
 - [x] Typescript<br>
 - [x] MirageJS<br>
 - [x] Styled-Components<br>
 - [x] Axios<br>
 - [x] React Modal<br>
+- [x] Javascript
 <br>
 
 ## 👷 Como rodar
