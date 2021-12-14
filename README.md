@@ -17,7 +17,7 @@ O projeto surgiu com a missão de ajudar as pessoas organizarem transações de 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-### **Front-end**
+## **Front-end**
 
 <br>
 - [x] React<br>
@@ -26,7 +26,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Styled-Components<br>
 - [x] Axios<br>
 - [x] React Modal<br>
-- [x] Javascript
 <br>
 
 ## 👷 Como rodar
