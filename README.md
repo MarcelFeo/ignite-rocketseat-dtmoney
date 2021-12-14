@@ -17,7 +17,7 @@ O projeto surgiu com a missão de ajudar as pessoas organizarem transações de 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-## **Front-end**
+### **Front-end**
 
 <br>
 - [x] React<br>
