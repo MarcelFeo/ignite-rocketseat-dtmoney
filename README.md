@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
--[X] React<br>
+-[x]React<br>
 -[x] Typescript<br>
 - [x] MirageJS<br>
 - [x] Styled-Components<br>
