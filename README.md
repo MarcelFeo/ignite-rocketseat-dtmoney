@@ -19,14 +19,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### **Front-end**
 
-<br>
-- [x] React<br>
-- [x] Typescript<br>
-- [x] MirageJS<br>
-- [x] Styled-Components<br>
-- [x] Axios<br>
-- [x] React Modal<br>
-<br>
+
+- [X] React<br>
+- [X] Typescript<br>
+- [X] MirageJS<br>
+- [X] Styled-Components<br>
+- [X] Axios<br>
+- [X] React Modal<br>
+
 
 ## 👷 Como rodar
 
